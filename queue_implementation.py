@@ -1,4 +1,4 @@
-"""queue is the linear datastructure where elemnt is inserted from one end and removed from the other end, hence it is open at the front and rear end.
+"""queue is the linear data structure where element is inserted from one end and removed from the other end, hence it is open at the front and rear end.
 The end where elements are added is called the rear/back/tail and the end where elements are removed is called the front/head of the que.
 It follows the First In First Out (FIFO) principle, meaning the first element added to the queue will be the first one to be removed. or we can say
 LILO (Last In Last Out) principle, meaning the last element added to the queue will be the last one to be removed.
